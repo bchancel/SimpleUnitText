@@ -2,8 +2,14 @@
 ## Title: SimpleUnitText
 ## Notes: Lightweight text-only unit HUD (Midnight-safe)
 ## Author: SimpleUnitText
-## Version: 0.2
+## Version: 0.1.0
 ## SavedVariables: SimpleUnitTextDB
+## SavedVariablesPerCharacter: SimpleUnitTextCharDB
 
 SimpleUnitText.lua
+SimpleUnitText_DB.lua
+SimpleUnitText_Anchors.lua
+SimpleUnitText_Curves.lua
+SimpleUnitText_Export.lua
+SimpleUnitText_Runtime.lua
 SimpleUnitText_Options.lua
