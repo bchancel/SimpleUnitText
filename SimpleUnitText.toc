@@ -1,0 +1,9 @@
+## Interface: 120000
+## Title: SimpleUnitText
+## Notes: Lightweight text-only unit HUD (Midnight-safe)
+## Author: SimpleUnitText
+## Version: 0.2
+## SavedVariables: SimpleUnitTextDB
+
+SimpleUnitText.lua
+SimpleUnitText_Options.lua
