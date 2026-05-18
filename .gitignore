@@ -39,3 +39,7 @@ luac.out
 *.x86_64
 *.hex
 
+# Local helper scripts
+deploy.ps1
+update_and_push.ps1
+

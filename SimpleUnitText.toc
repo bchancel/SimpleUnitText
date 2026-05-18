@@ -2,7 +2,8 @@
 ## Title: SimpleUnitText
 ## Notes: Lightweight text-only unit HUD (Midnight-safe)
 ## Author: SimpleUnitText
-## Version: 0.1.0
+## Version: 0.1.1
+## X-Curse-Project-ID: 1547350
 ## SavedVariables: SimpleUnitTextDB
 ## SavedVariablesPerCharacter: SimpleUnitTextCharDB
 
